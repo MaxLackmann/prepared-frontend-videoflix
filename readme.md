@@ -11,7 +11,6 @@ Dieses Projekt ist ein einfaches Frontend, das mit **Vanilla JavaScript** (reine
 - Du brauchst ein mit Docker-Desktop erstelltes Django-Backend (Videoflix), dass **nicht** in diesem Projekt enthalten ist.
 - Visual Studio Code mit der **Live Server**-Erweiterung oder eine ähnliche Möglichkeit, die `index.html` auf oberster Ebene lokal im Browser zu starten.
 - Du brauchst an den Dateien grundsätzlich **nichts** ändern.
-
 ---
 
 ## Nutzung
@@ -44,4 +43,4 @@ Dieses Projekt ist **ausschließlich für Schüler der Developer Akademie** geda
 2. Du kannst das Projekt öffnen mit Doppelklick auf `docs/jsdoc/index.html`, oder im Terminal
    Windows: `start docs/jsdoc/index.html`
    macOS: `open docs/jsdoc/index.html`
-   Linux: `xdg-open docs/jsdoc/index.html`
+   Linux: `xdg-open docs/jsdoc/index.html` 
