@@ -3,7 +3,9 @@
  * Typically points to your backend server's API root.
  * @constant {string}
  */
-const API_BASE_URL = 'http://127.0.0.1:8000/api/';
+
+// const API_BASE_URL = 'http://127.0.0.1:8000/api/';
+const API_BASE_URL = 'https://api.videoflix.maximilian-lackmann.com/api/';
 
 /**
  * Relative path for the login endpoint.
